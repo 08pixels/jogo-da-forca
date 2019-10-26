@@ -10,4 +10,4 @@ python3 main.py
 - armazenar o personagem
 
 ### Demonstração
-
+![](.img/demonstracao.gif)
