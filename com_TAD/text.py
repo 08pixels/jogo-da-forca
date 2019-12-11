@@ -1,3 +1,6 @@
+palavras_secretas = ['melancia', 'goiaba', 'acerola', 'banana',
+'caqui', 'cereja', 'damasco', 'graviola', 'guarana', 'manga',
+'tangerina', 'laranja', 'coco', 'uva', 'mamao', 'carambola', 'quiui' ]
 
 jogo_da_forca = ' \
     __                           .___          _____                             \n\
