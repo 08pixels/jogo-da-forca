@@ -15,7 +15,7 @@ class Lista_ordenada:
       if elemento < self.lista[i]:
         self.lista = self.lista[:i] + [ elemento ] + self.lista[i:]
         break
-      if elemento == self.lista[i]:
+      if elemento == self.lista[i]: # não permite elementos repetidos
         break
     else:
       self.lista += [ elemento ]
